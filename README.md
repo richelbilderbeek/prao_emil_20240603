@@ -1,6 +1,6 @@
 # PRAO of Emil
 
- * When: June 3, 4, 5, 10, 11 (see [schedule](#schedule) below),
+ * When: June 3, 4, 5, 10, 11 (weeks 23 and 24)(see [schedule](#schedule) below),
    each day from 9:00-?16:00
  * Where: BMC (see [location](#location) below)
 
