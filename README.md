@@ -42,7 +42,7 @@ Pick one:
 
 Start|What
 -----|-----
-9:00 |Start
+9:00 |Start @ Richel's office
 10:00|Break
 10:15|.
 11:00|Break
@@ -59,7 +59,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start
+9:00 |Start @ Richel's office
 10:00|Break
 10:15|.
 11:00|Break
@@ -76,7 +76,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start
+9:00 |Start @ Richel's office
 10:00|Break
 10:15|.
 11:00|Break
@@ -93,7 +93,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start
+9:00 |Start @ Richel's office
 10:00|Break
 10:15|.
 11:00|Break
@@ -110,7 +110,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start
+9:00 |Start @ Richel's office
 10:00|Break
 10:15|.
 11:00|Break
@@ -120,7 +120,7 @@ Start|What
 14:00|Break
 14:15|.
 15:00|Break
-15:15|Reflection
+15:15|Reflection @ Richel's office
 16:00|Done
 
 
