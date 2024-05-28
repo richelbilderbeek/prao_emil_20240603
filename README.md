@@ -66,7 +66,7 @@ At least one slot at most all slots in two days.
 - One slot, because it allows for straightforward scheduling
 - Two days, because it allows for meeting many colleagues
 
-### Help, I must cancel last-minute!
+### Help, I must cancel last-minute
 
 No worries, just let Richel or the PRAO student know.
 
