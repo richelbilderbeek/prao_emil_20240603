@@ -8,14 +8,14 @@ To reach my office, enter at entrance C11. In the hallways, take the stairs down
 
 > Enter at entrance C11. In the hallways, take the stairs down
 
-In the basement, turn right and follow the loooong corridor
-until the first square. There, take the person elevator ('personhiss')
+In the basement, turn right and follow the long corridor
+until the first square. There, take the person elevator
 or take the stairs, to floor 4.
 
 ![BMC basement route](bmc_floor_k1_with_route.png)
 
 > turn right and follow the loooong corridor until the first square
-> Take the person elevator ('personhiss') or stairs to floor 4.
+> Take the person elevator or stairs to floor 4.
 
 At the fourth floor, go past the toilets. It's the first door at the left.
 
