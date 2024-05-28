@@ -2,27 +2,19 @@
 
  * When: June 3, 4, 5, 10, 11 (weeks 23 and 24)(see [schedule](#schedule) below),
    each day from 9:00-?16:00
- * Where: BMC (see [location](#location) below)
+ * Where in Uppsala: Biomedical Center, Husargatan: 
+   see [location](location.md) how to get there
+ * Where in BMC: [office B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656): 
+   see [office](office.md) how to get there
+ * [Schedule](schedule.md): see [schedule](schedule.md)
+ * [Report](report.md): see [report](report.md)
+ * [Reflection](reflection.md): see [reflection](reflection.md)
 
-## Location
+## PRAO goal
 
-We meet at the Biomedical Center in Uppsala at the Husargatan:
+To find out how working life at NBIS/UPPMAX/UU is like. 
 
-![](location_uppsala_annotated.png)
-
-At BMC, we will meet at the SciLifeLab reception at the entrance at C11:
-
-![](location_bmc_annotated.png)
-
- * [OpenStreetMap](https://www.openstreetmap.org/search?query=bmc%2C%20uppsala#map=19/59.84188/17.63697)
- * [Meeting point](https://use.mazemap.com/#v=1&center=17.636962,59.841955&zoom=19.7&campusid=49&zlevel=1&sharepoitype=poi&sharepoi=1000459927)
-
-At the SciLifeLab reception, wait in the comfy chairs,
-until I pick you up and we go to my office.
-
- * [My office](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
-
-## Goal
+## PRAO projects
 
 Pick one:
 
@@ -36,93 +28,54 @@ Pick one:
  * [ ] Convert some private notes to documentation on how to
    transfer data to Swestore
 
-## Schedule
+## FAQ for colleagues
 
-### Monday June 3rd
+### What is the purpose of meeting the PRAO student?
 
-Start|What
------|-----
-9:00 |Start @ Richel's office
-10:00|Break
-10:15|.
-11:00|Break
-11:15|.
-12:00|Lunch
-13:00|.
-14:00|Break
-14:15|.
-15:00|Break
-15:15|.
-16:00|Done
+To show the diversity within our workplace.
 
-### Tuesday June 4th
+The goal for the PRAO student is to find out how working at
+university/NBIS/UPPMAX looks like. I (Richel) think that
+we do widely different things and have widely different 
+opinions and personality. Hence, I hope the PRAO student
+meets a lot of colleagues.
 
-Start|What
------|-----
-9:00 |Start @ Richel's office
-10:00|Break
-10:15|.
-11:00|Break
-11:15|.
-12:00|Lunch
-13:00|.
-14:00|Break
-14:15|.
-15:00|Break
-15:15|.
-16:00|Done
+### What should I do with the PRAO student?
 
-### Wednesday June 5th
+The goal of a PRAO is to find out how our working life 
+looks like. 
 
-Start|What
------|-----
-9:00 |Start @ Richel's office
-10:00|Break
-10:15|Marcus Lundberg @ his BMC office
-11:00|Break
-11:15|.
-12:00|Lunch
-13:00|.
-14:00|Break
-14:15|.
-15:00|Break
-15:15|.
-16:00|Done
+You can already do so by having him come to your office and
+talk about your job. You can also use the PRAO student
+to do work you'd give to a new colleague.
 
-### Monday June 10th
+### How do I book some time with the PRAO student?
 
-Start|What
------|-----
-9:00 |Start @ Richel's office
-10:00|Break
-10:15|.
-11:00|Break
-11:15|.
-12:00|Lunch
-13:00|.
-14:00|Break
-14:15|.
-15:00|Break
-15:15|.
-16:00|Done
+In many ways:
 
-### Tuesday June 11th
+- Send a Slack PM to Richel Bilderbeek
+- Send an email to `richel.bilderbeek@icm.uu.se`
+- Create an Issue at this repo
+- Create a Pull Request to this repo, 
+  putting yourself in a slot in [the schedule](schedule.md)
 
-Start|What
------|-----
-9:00 |Start @ Richel's office
-10:00|Break
-10:15|.
-11:00|Break
-11:15|.
-12:00|Lunch
-13:00|.
-14:00|Break
-14:15|.
-15:00|Break
-15:15|Reflection @ Richel's office
-16:00|Done
+### How long can I have the PRAO student?
 
+At least one slot at most all slots in two days.
 
-## Reflection
+- One slot, because it allows for straightforward scheduling
+- Two days, because it allows for meeting many colleagues
 
+### Help, I must cancel last-minute!
+
+No worries, Emil
+
+## Files used by continuous integration scripts
+
+Filename                              |Descriptions
+--------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------
+[mlc_config.json](mlc_config.json)    |Configuration of the link checker, use `markdown-link-check --config mlc_config.json --quiet docs/**/*.md` to do link checking locally
+[.spellcheck.yml](.spellcheck.yml)    |Configuration of the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
+[.wordlist.txt](.wordlist.txt)        |Whitelisted words for the spell checker, use `pyspelling -c .spellcheck.yml` to do spellcheck locally
+[.markdownlint.jsonc](.markdownlint.jsonc)|Configuration of the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
+[.markdownlintignore](.markdownlintignore)|Files ignored by the markdown linter, use `markdownlint "**/*.md"` to do markdown linting locally. The name of this file is a default name.
