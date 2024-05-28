@@ -30,3 +30,7 @@ txt
 wordlist
 yml
 repo
+Bilderbeek
+Swestore
+runtime
+
