@@ -31,7 +31,7 @@ Start|What
 14:00|Break
 14:15|.
 15:00|Break
-15:15|.
+15:15|Jason Hill @ His office BMC
 16:00|Done
 
 ## Wednesday June 5th
