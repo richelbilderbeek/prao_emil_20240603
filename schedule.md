@@ -23,7 +23,7 @@ Start|What
 -----|-----
 9:00 |Start @ Richel's office
 10:00|Break
-10:15|.
+10:15|?Chris
 11:00|Break
 11:15|.
 12:00|Lunch
