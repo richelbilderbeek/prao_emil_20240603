@@ -61,7 +61,7 @@ Start|What
 11:00|Break
 11:15|.
 12:00|Lunch
-13:00|.
+13:00|Marcel den Hoed @ his BMC office
 14:00|Break
 14:15|.
 15:00|Break
