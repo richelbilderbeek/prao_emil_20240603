@@ -12,7 +12,7 @@ Start|What
 12:00|Lunch
 13:00|Jason Hill @ His office BMC
 14:00|Break
-14:15|Jayant Yadav @ his office @ Ångström
+14:15|Jayant Yadav @ 103140 @ Ångström
 15:00|Break
 15:15|.
 16:00|Done
