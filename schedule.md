@@ -23,13 +23,13 @@ Start|What
 -----|-----
 9:00 |Start @ Richel's office
 10:00|Break
-10:15|Chris Erdmann @ his office
+10:15|Chris Erdmann @ his office (also: UPPMAX meeting)
 11:00|Break
 11:15|.
 12:00|Lunch
 13:00|.
 14:00|Break
-14:15|.
+14:15|(also: NBIS dropin)
 15:00|Break
 15:15|.
 16:00|Done
@@ -42,11 +42,11 @@ Start|What
 10:00|Break
 10:15|Marcus Lundberg @ his BMC office
 11:00|Break
-11:15|.
+11:15|(also: Programming Formalisms meeting)
 12:00|Lunch
-13:00|Pavlin Mitev @ his Ångström office
+13:00|Pavlin Mitev @ BMC in SCoRe meeting room
 14:00|Break
-14:15|.
+14:15|(also: SCoRe meeting)
 15:00|Break
 15:15|.
 16:00|Done
@@ -74,13 +74,13 @@ Start|What
 -----|-----
 9:00 |Start @ Richel's office
 10:00|Break
-10:15|.
+10:15|(also: UPPMAX meeting)
 11:00|Break
 11:15|.
 12:00|Lunch
 13:00|.
 14:00|Break
-14:15|.
+14:15|(NBIS dropin)
 15:00|Break
 15:15|Reflection @ Richel's office
 16:00|Done
