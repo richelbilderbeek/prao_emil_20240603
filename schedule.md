@@ -44,7 +44,7 @@ Start|What
 11:00|Break
 11:15|.
 12:00|Lunch
-13:00|.
+13:00|Pavlin Mitev @ his Ångström office
 14:00|Break
 14:15|.
 15:00|Break
