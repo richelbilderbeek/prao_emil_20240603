@@ -12,7 +12,7 @@ This PRAO has two parts:
 Here at NBIS and UPPMAX, we do many different things.
 A thing I need is [select thing]:
 
-- [ ] Create a [flamegraph](https://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg)
+- [X] Create a [flamegraph](images/example_flamegraph.png)
   of code runtime.
   Find/write an example of well-written Python code
   that shows a run-time speed bottleneck

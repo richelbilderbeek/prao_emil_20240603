@@ -18,7 +18,7 @@ To find out how working life at NBIS/UPPMAX/UU is like.
 
 Pick one:
 
-- [ ] Find/write an example of well-written Python code
+- [X] Find/write an example of well-written Python code
   that shows a run-time speed bottleneck
   at an unexpected location.
   Adapt text at <https://uppmax.github.io/programming_formalisms/optimisation/runtime_speed_profiles/>
