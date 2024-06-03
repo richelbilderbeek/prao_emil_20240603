@@ -6,15 +6,15 @@ Start|What
 -----|-----
 9:00 |Start @ Richel's office
 10:00|Break
-10:15|Martin Dahlö @ his office BMC
+10:15|Martin Dahlö @ [his office, BMC](https://use.mazemap.com/#v=1&center=17.636148,59.841949&zoom=21.2&campusid=49&zlevel=4&sharepoitype=poi&sharepoi=383371) 
 11:00|Break
-11:15|.
+11:15|Work
 12:00|Lunch
-13:00|Jason Hill @ His office BMC
-14:00|Break
-14:15|Jayant Yadav @ 103140 @ Ångström
+13:00|Jason Hill @ [His office, BMC](https://use.mazemap.com/#v=1&center=17.636334,59.842084&zoom=21.9&campusid=49&zlevel=3&sharepoitype=poi&sharepoi=383312) 
+13:45|Travel and break
+14:15|Jayant Yadav @ [103140, Ångström](https://use.mazemap.com/#v=1&center=17.646853,59.839820&zoom=18&campusid=49&zlevel=4&sharepoitype=poi&sharepoi=1000824789)
 15:00|Break
-15:15|.
+15:15|Work
 16:00|Done
 
 ## Tuesday June 4th
