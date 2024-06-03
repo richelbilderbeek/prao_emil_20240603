@@ -4,15 +4,17 @@ Goal of a PRAO is to find out how it is like to work at a certain place.
 
 This PRAO has two parts:
 
-- work: find out how it is like to **work** at a certain place
-- interviews: 
+- work: work on something yourself
+- interviews: find out how others like the place
 
 ## Code
 
 Here at NBIS and UPPMAX, we do many different things.
-A thing I need is [select thing]
+A thing I need is [select thing]:
 
-- [ ] Find/write an example of well-written Python code
+- [ ] Create a [flamegraph](https://www.brendangregg.com/FlameGraphs/cpu-bash-flamegraph.svg)
+  of code runtime.
+  Find/write an example of well-written Python code
   that shows a run-time speed bottleneck
   at an unexpected location.
   Adapt text at <https://uppmax.github.io/programming_formalisms/optimisation/runtime_speed_profiles/>
