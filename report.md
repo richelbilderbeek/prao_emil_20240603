@@ -41,21 +41,33 @@ If there is time, try to answer these questions per person.
 ### Martin Dahlö
 
 - What is his job title?
+Job title is bioinformatician.
 - What does he do?
+he did do a little bit of working with computers and a little more with biotechnology but now hes working some more with computers.
 - What did he do to get his job?
+he did continuation of his ex-job.
 - How much do you think you'd like his job?
+i think this is a reasonable job, but threre are many jobs I would prefer above this one.
+
 
 ### Jason Hill
 
 - What is his job title?
+His job title is bioinformation
 - What does he do?
+He works with the data DNA, and understand what the code in the DNA is trying to tell us. Right now working with how to make a better breed of spruce tree with tree DNA.
 - What did he do to get his job?
+He sorta got his job by accident, since he came for biochemistry but they changed it to what he works with now bioinformation.
 - How much do you think you'd like his job?
+I liked this job a bit more, I think DNA and nature as in trees are intresting. Would like it a bit more as it is intressting, but i think this is alright.
 
 ### Jayant Jadav
 
 - What is his job title?
+The title is application expert
 - What does he do?
+He works with ai, an ai tool called whisper that converts audio into text for humanity researchers and social scientists. Is continuing with learning about whisper. He uses NER on documents to help humanity researchers and social scientists awnser questions from documents. He knew about NER before coming to sweden and the two months he has been here hes learned about whisper and still is.
 - What did he do to get his job?
+He got an PHD.
 - How much do you think you'd like his job?
-
+I like this job. its fun to help others.
