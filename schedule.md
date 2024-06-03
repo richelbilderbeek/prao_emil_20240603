@@ -25,7 +25,7 @@ Start|What
 10:00|Break
 10:15|Chris Erdmann @ his office (also: UPPMAX meeting)
 11:00|Break
-11:15|.
+11:15|Join Richel @ Dardel to Rackham meeting
 12:00|Lunch
 13:00|.
 14:00|Break
