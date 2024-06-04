@@ -31,7 +31,7 @@ Start|What
 14:00|Break
 14:15|Work (Richel @ online NBIS drop-in)
 15:00|Break
-15:15|Work
+15:15|Option 2 for Cormac Kinsella @ ?Navet ground floor
 16:00|Done
 
 ## Wednesday June 5th
