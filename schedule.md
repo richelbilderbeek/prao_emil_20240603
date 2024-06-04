@@ -27,11 +27,11 @@ Start|What
 11:00|Break
 11:15|Work (Richel @ online Dardel to Rackham meeting)
 12:00|Lunch
-13:00|Cormac Kinsella @ ?Navet ground floor
+13:00|Cormac Kinsella @ [C10:321B](https://link.mazemap.com/CIHLoCP3)
 14:00|Break
 14:15|Work (Richel @ online NBIS drop-in)
 15:00|Break
-15:15|Option 2 for Cormac Kinsella @ ?Navet ground floor
+15:15|Work
 16:00|Done
 
 ## Wednesday June 5th
