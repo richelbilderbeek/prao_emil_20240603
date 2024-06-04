@@ -78,7 +78,7 @@ Start|What
 11:00|Break
 11:15|.
 12:00|Lunch
-13:00|.
+13:00|Karthik Nair @ NGI-SNP&SEQ(D11/Navet)
 14:00|Break
 14:15|(NBIS dropin)
 15:00|Break
