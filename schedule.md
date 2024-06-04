@@ -23,15 +23,15 @@ Start|What
 -----|-----
 9:00 |Start @ Richel's office
 10:00|Break
-10:15|Chris Erdmann @ ground floor Navet (also: UPPMAX meeting)
+10:15|Chris Erdmann @ ground floor Navet (Richel @ online UPPMAX meeting)
 11:00|Break
-11:15|Join Richel @ Dardel to Rackham meeting
+11:15|Work (Richel @ online Dardel to Rackham meeting)
 12:00|Lunch
-13:00|.
+13:00|Work
 14:00|Break
-14:15|(also: NBIS dropin)
+14:15|Work (Richel @ online NBIS drop-in)
 15:00|Break
-15:15|.
+15:15|Work
 16:00|Done
 
 ## Wednesday June 5th
@@ -42,7 +42,7 @@ Start|What
 10:00|Break
 10:15|Marcus Lundberg @ his BMC office
 11:00|Break
-11:15|(also: Programming Formalisms meeting)
+11:15|Work (Richel @ online Programming Formalisms meeting)
 12:00|Lunch
 13:00|Pavlin Mitev @ BMC room [E10:4102](https://link.mazemap.com/lQ26sWCk)
 14:00|Break
