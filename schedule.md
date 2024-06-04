@@ -27,7 +27,7 @@ Start|What
 11:00|Break
 11:15|Work (Richel @ online Dardel to Rackham meeting)
 12:00|Lunch
-13:00|Work
+13:00|Cormac Kinsella @ ?Navet ground floor
 14:00|Break
 14:15|Work (Richel @ online NBIS drop-in)
 15:00|Break
