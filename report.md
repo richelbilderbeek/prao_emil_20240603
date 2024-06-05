@@ -92,7 +92,7 @@ He helps researchers sort out data, aswell as helping and giving them tips to fi
 at first he studied history, he also worked with a company about buildings. He found his job that he has now through network and had interviews that made him love the place because of the people.
 
 - How much do you think you'd like his job?
-As the other one i like helping people but not my thing with data.
+As the other one i like helping people but not my thing with data. Its alright.
 
 ### Pavlin Madvin
 
@@ -106,3 +106,4 @@ He helps mainly people from uppmax and not as often people from other places in 
 he was researcher, at the chemstry department then some time later, he was offered to work halftime at uppmax. Now fulltime.
 
 How much do you think you'd like the job?
+I dont really like this kind of work same with the other people that work with computer but i think helping others makes up for it so i think i'd like it a bit.
