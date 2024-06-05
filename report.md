@@ -70,3 +70,15 @@ He works with ai, an ai tool called whisper that converts audio into text for hu
 He got an PHD.
 - How much do you think you'd like his job?
 I like this job. its fun to help others.
+
+### Chris Edrmamm
+
+- What is his job title?
+Head of open science
+- What does he do?
+He helps researchers sort out data, aswell as helping and giving them tips to find information
+- What did he do to get his job? 
+at first he studied history, he also worked with a company about buildings. He found his job that he has now through network and had interviews that made him love the place because of the people.
+- How much do you think you'd like his job?
+As the other one i like helping people but not my thing with data.
+
