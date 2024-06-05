@@ -45,8 +45,8 @@ Start|What
 11:15|Work
 12:00|Lunch
 13:00|Pavlin Mitev @ BMC room [E10:4102](https://link.mazemap.com/lQ26sWCk)
+13:45|Break
 14:00|SCoRe meeting
-14:??|Break
 14:??|Work
 15:00|Break
 15:15|Work
