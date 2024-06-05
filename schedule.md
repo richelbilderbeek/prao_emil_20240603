@@ -45,10 +45,11 @@ Start|What
 11:15|Work (Richel @ online Programming Formalisms meeting)
 12:00|Lunch
 13:00|Pavlin Mitev @ BMC room [E10:4102](https://link.mazemap.com/lQ26sWCk)
-14:00|Break
-14:15|SCoRe meeting
+14:00|SCoRe meeting
+14:??|Break
+14:??|Work
 15:00|Break
-15:15|Works
+15:15|Work
 16:00|Done
 
 ## Monday June 10th
