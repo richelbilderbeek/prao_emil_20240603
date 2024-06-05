@@ -46,9 +46,9 @@ Start|What
 12:00|Lunch
 13:00|Pavlin Mitev @ BMC room [E10:4102](https://link.mazemap.com/lQ26sWCk)
 14:00|Break
-14:15|(also: SCoRe meeting)
+14:15|SCoRe meeting
 15:00|Break
-15:15|.
+15:15|Works
 16:00|Done
 
 ## Monday June 10th
