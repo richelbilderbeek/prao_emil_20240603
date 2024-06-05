@@ -4,7 +4,7 @@
 
 Start|What
 -----|-----
-9:00 |Start @ Richel's office
+9:00 |Start @ Richel's office [B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
 10:00|Break
 10:15|Martin Dahlö @ [his office, BMC](https://use.mazemap.com/#v=1&center=17.636148,59.841949&zoom=21.2&campusid=49&zlevel=4&sharepoitype=poi&sharepoi=383371)
 11:00|Break
@@ -21,7 +21,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start @ Richel's office
+9:00 |Start @ Richel's office [B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
 10:00|Break
 10:15|Chris Erdmann @ ground floor Navet (Richel @ online UPPMAX meeting)
 11:00|Break
@@ -38,11 +38,11 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start @ Richel's office
+9:00 |Start @ Richel's office [B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
 10:00|Break
-10:15|Marcus Lundberg @ his BMC office
+10:15|Marcus Lundberg @ BMC room [B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
 11:00|Break
-11:15|Work (Richel @ online Programming Formalisms meeting)
+11:15|Work
 12:00|Lunch
 13:00|Pavlin Mitev @ BMC room [E10:4102](https://link.mazemap.com/lQ26sWCk)
 14:00|SCoRe meeting
@@ -56,7 +56,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start @ Richel's office
+9:00 |Start @ Richel's office [B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
 10:00|Break
 10:15|.
 11:00|Break
@@ -73,7 +73,7 @@ Start|What
 
 Start|What
 -----|-----
-9:00 |Start @ Richel's office
+9:00 |Start @ Richel's office [B9:430b](https://use.mazemap.com/#v=1&zlevel=4&center=17.635980,59.841862&zoom=19.9&campusid=49&desttype=poi&dest=386656)
 10:00|Break
 10:15|(also: UPPMAX meeting)
 11:00|Break
