@@ -52,6 +52,7 @@ You can use a flamegraph to see what is slow in your code or whats fast so that 
 
 ### Give an example code that gives a useful flamegraph
 
+https://www.brendangregg.com/FlameGraphs/cpu-bash-profile.txt
 
 ## Interviews
 
