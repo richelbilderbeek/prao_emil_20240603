@@ -23,6 +23,7 @@ A thing I need is [select thing]:
 
 ### What is Python?
 
+python is a programming language.
 ### How does a simple Python program look like?
 
 ### What is a Python script?
