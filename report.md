@@ -40,6 +40,7 @@ now once in the file you press ctrl v to paste in the code that you found then a
 
 ### What is a flamegraph?
 
+A flamegraph is
 
 ### How does a flamegraph look like?
 
