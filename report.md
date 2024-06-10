@@ -40,13 +40,15 @@ now once in the file you press ctrl v to paste in the code that you found then a
 
 ### What is a flamegraph?
 
-A flamegraph is
+A flamegraph shows whats runs slow and what runs fast in your code.
 
 ### How does a flamegraph look like?
 
 [https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&psig=AOvVaw1YbP0T6vloNSeq5fnbclh-&ust=1718109386526000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiSnbGG0YYDFQAAAAAdAAAAABAE]
 
 ### Why use a flamegraph?
+
+You can use a flamegraph to see what is slow in your code or whats fast so that you can fix it.
 
 ### Give an example code that gives a useful flamegraph
 
