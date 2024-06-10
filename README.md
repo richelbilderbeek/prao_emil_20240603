@@ -22,11 +22,6 @@ Pick one:
   that shows a run-time speed bottleneck
   at an unexpected location.
   Adapt text at <https://uppmax.github.io/programming_formalisms/optimisation/runtime_speed_profiles/>
-- [ ] Do the exercises at <https://uppmax.github.io/programming_formalisms/optimisation/big_o/> ,
-  add these to the course materials
-- [ ] Finish the Programming Formalisms example project at <https://github.com/programming-formalisms/programming_formalisms_example_project>
-- [ ] Convert some private notes to documentation on how to
-  transfer data to Swestore
 
 ## FAQ for colleagues
 
