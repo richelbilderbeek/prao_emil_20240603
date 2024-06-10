@@ -43,7 +43,7 @@ now once in the file you press ctrl v to paste in the code that you found then a
 
 ### How does a flamegraph look like?
 
-[flamegraph image here]
+[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&psig=AOvVaw1YbP0T6vloNSeq5fnbclh-&ust=1718109386526000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiSnbGG0YYDFQAAAAAdAAAAABAE]
 
 ### Why use a flamegraph?
 
