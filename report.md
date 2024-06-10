@@ -54,12 +54,15 @@ If there is time, try to answer these questions per person.
 - What is his job title?
 
 Job title is bioinformatician.
+
 - What does he do?
 
 he did do a little bit of working with computers and a little more with biotechnology but now hes working some more with computers.
+
 - What did he do to get his job?
 
 he did continuation of his ex-job.
+
 - How much do you think you'd like his job?
 
 i think this is a reasonable job, but threre are many jobs I would prefer above this one.
@@ -70,12 +73,15 @@ i think this is a reasonable job, but threre are many jobs I would prefer above 
 - What is his job title?
 
 His job title is bioinformation
+
 - What does he do?
 
 He works with the data DNA, and understand what the code in the DNA is trying to tell us. Right now working with how to make a better breed of spruce tree with tree DNA.
+
 - What did he do to get his job?
 
 He sorta got his job by accident, since he came for biochemistry but they changed it to what he works with now bioinformation.
+
 - How much do you think you'd like his job?
 
 I liked this job a bit more, I think DNA and nature as in trees are intresting. Would like it a bit more as it is intressting, but i think this is alright.
@@ -85,12 +91,15 @@ I liked this job a bit more, I think DNA and nature as in trees are intresting. 
 - What is his job title?
 
 The title is application expert
+
 - What does he do?
 
 He works with ai, an ai tool called whisper that converts audio into text for humanity researchers and social scientists. Is continuing with learning about whisper. He uses NER on documents to help humanity researchers and social scientists awnser questions from documents. He knew about NER before coming to sweden and the two months he has been here hes learned about whisper and still is.
+
 - What did he do to get his job?
 
 He got an PHD.
+
 - How much do you think you'd like his job?
 
 I like this job. its fun to help others.
@@ -99,12 +108,15 @@ I like this job. its fun to help others.
 - What is his job title?
 
 Head of open science
+
 - What does he do?
 
 He helps researchers sort out data, aswell as helping and giving them tips to find information
+
 - What did he do to get his job?
 
 at first he studied history, he also worked with a company about buildings. He found his job that he has now through network and had interviews that made him love the place because of the people.
+
 - How much do you think you'd like his job?
 
 As the other one i like helping people but not my thing with data. Its alright.
@@ -114,12 +126,15 @@ As the other one i like helping people but not my thing with data. Its alright.
 -What is his job title? 
 
 Application expert.
+
 -What does he do? 
 
 He helps mainly people from uppmax and not as often people from other places in sweden.
+
 -How did he get his job?
 
 he was researcher, at the chemstry department then some time later, he was offered to work halftime at uppmax. Now fulltime.
+
 -How much do you think you'd like the job?
 
 I dont really like this kind of work same with the other people that work with computer but i think helping others makes up for it so i think i'd like it a bit.
@@ -129,6 +144,7 @@ I dont really like this kind of work same with the other people that work with c
 -What is his job title?
 
 associate professer.
+
 -What does he do?
 
 he does research on fish right now, with a research group that he leads. He does mutations on the fish genes and finds out what happens if diffrent things in the genes does, so that he can then after find out why the human had his heart stop from out of nowhere.
