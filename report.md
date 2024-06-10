@@ -23,15 +23,19 @@ A thing I need is [select thing]:
 
 ### What is Python?
 
-python is a programming language.
+Python is a programming language.
 ### How does a simple Python program look like?
 
 ### What is a Python script?
 
+A python script is a file where you can write your code in or copy one in.
 ### How to create a Python script?
 
+search for an python code, copy the code ctrl c. write down somewhere for example in your termal: gedit (madeup code name).py
+now once in the file you press ctrl v to paste in the code that you found then after that, you save the code and close the file.
 ### How to run a Python script?
 
+ In termal to run the python script you write: pyhton3 (code name here).py
 
 ## Interviews
 
