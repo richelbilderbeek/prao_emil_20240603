@@ -54,6 +54,25 @@ You can use a flamegraph to see what is slow in your code or whats fast so that 
 
 ![image](https://github.com/richelbilderbeek/prao_emil_20240603/assets/171581052/cfd09afa-667c-4cbd-af66-9db4db01beed)
 
+```python
+import numpy as np
+
+def make_big_array():
+    return np.zeros((1024, 1024, 50))
+
+def make_two_arrays():
+    arr1 = np.zeros((1024, 1024, 10))
+    arr2 = np.ones((1024, 1024, 10))
+    return arr1, arr2
+
+def main():
+    arr1, arr2 = make_two_arrays()
+    another_arr = make_big_array()
+    # → Peak memory usage is here ←
+
+main()
+
+```
 
 ## Interviews
 
