@@ -24,6 +24,7 @@ A thing I need is [select thing]:
 ### What is Python?
 
 Python is a programming language.
+
 ### How does a simple Python program look like?
 
 ### What is a Python script?
@@ -36,6 +37,18 @@ now once in the file you press ctrl v to paste in the code that you found then a
 ### How to run a Python script?
 
  In termal to run the python script you write: pyhton3 (code name here).py
+
+### What is a flamegraph?
+
+
+### How does a flamegraph look like?
+
+[flamegraph image here]
+
+### Why use a flamegraph?
+
+### Give an example code that gives a useful flamegraph
+
 
 ## Interviews
 
