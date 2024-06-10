@@ -40,7 +40,7 @@ now once in the file you press ctrl v to paste in the code that you found then a
 
 ### What is a flamegraph?
 
-A flamegraph shows whats runs slow and what runs fast in your code.
+A flamegraph shows what runs slow and what runs fast in your code.
 
 ### How does a flamegraph look like?
 
