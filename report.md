@@ -1,6 +1,5 @@
 # Report
 
-![](Screenshot from 2024-06-11 10-20-08.png)
 
 Goal of a PRAO is to find out how it is like to work at a certain place.
 
@@ -86,17 +85,19 @@ main()
 
 -Once your in text editor press ctrl v to put in the code you copied. press save or do ctrl s to save. 
 
--Go back to termal and write: python3 -m cProfile -o myscript.prof (the code name you made).py
+-Then exit and go back to termal and write: python3 -m cProfile -o myscript.prof (the code name you made).py
 
 -Then write: python3 flameprof.py myscript.prof > output.svg 
 
 -Then just go into your files and search output.svg and click on it.
 
--Now you should have a flamegraph that looks kinda like this:https://www.google.com/imgres?q=flamegraph%20pic&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ff60e00d56db631b9dba6be09615d0486760b7d38fee89021171134e340ba0495%2F687474703a2f2f7777772e6272656e64616e67726567672e636f6d2f466c616d654772617068732f6370752d626173682d666c616d6567726170682e737667&imgrefurl=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&docid=pR2JCE89LVZPfM&tbnid=so_bg2PA3_TUOM&vet=12ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA..i&w=1200&h=626&hcb=2&ved=2ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA
+-Now you should have a flamegraph that looks kinda like this:![](flamegraph_1.png)
 
 most flamegraphs don't look the exact same, they are all diffrent.
 
 ## How to read/use a flamegraph?
+
+In the flamegraph there are many different lengths on the horizontal bars, some are short and some long. The long ones are slow and the short ones are fast, so basically it shows what runs fast in your code and what runs slow.
 
 ## Interviews
 
@@ -196,7 +197,7 @@ He helps mainly people from uppmax and not as often people from other places in 
 
 he was researcher, at the chemstry department then some time later, he was offered to work halftime at uppmax. Now fulltime.
 
--How much do you think you'd like the job?
+-How much do you think you'd like his job?
 
 I dont really like this kind of work same with the other people that work with computer but i think helping others makes up for it so i think i'd like it a bit.
 
@@ -214,6 +215,24 @@ he does research on fish right now, with a research group that he leads. He does
 
 He studied 4 years in the netherlands and got an PHD that he studied on for another 4 years in the netherlands. Then he moved to England to study 3 years for him to then come to sweden 2012 and he does research till this day.
 
--How much do you think you'd like the job?
+-How much do you think you'd like his job?
 
 i think it would be fun to do some research.
+
+### Kartik Nair
+
+-What is his job title?
+
+bioinformatician
+
+-What does he do?
+
+He does a DNA sequencing and is a system devoloper in which he makes softwares to put DNA samples in. 80% systemdeveloper 20% bioinformatics. First they get DNA samples sent from other countries, DNA from bone, bug and more. then with machines help they can see the DNA and what it has. But the DNA is hard to understand so Kartik made a software that helps with that.
+
+-How did he get his job?
+
+He fit into the criterias, knowing about math-statistics, biology and computer science.
+
+-How much do you think you'd like his job?
+
+it would be fun but at the same time I am not good with computers, the DNA part sounds fun though.
