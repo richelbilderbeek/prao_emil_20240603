@@ -85,7 +85,7 @@ main()
 
 -Once your in text editor press ctrl v to put in the code you copied. press save or do ctrl s to save. 
 
--Go back to termal and write: python3 -m cProfile -o myscript.prof (the code name you made).py
+-Then exit and go back to termal and write: python3 -m cProfile -o myscript.prof (the code name you made).py
 
 -Then write: python3 flameprof.py myscript.prof > output.svg 
 
