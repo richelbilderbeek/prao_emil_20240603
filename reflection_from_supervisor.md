@@ -33,6 +33,11 @@ Emil was a great PRAO, for many reasons:
   things, he now has shown to partially understand his job
 - Emil was honest. In his interviews, he writes down if he'd like the
   job of my colleague and this was not always a -just to be nice- yes 
+- Emil is pleasant to work with. As there was only one access card 
+  available, we had to discuss who has the card or who needs to be where.
+  This worked out perfectly.
+- Emil is autonomous. Commonly I've seen Emil work on his own for more than
+  half an hour. Also he feels free enough to take a break alone.
 
 I will recommend Emil to any other PRAO supervisor.
   
