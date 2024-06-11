@@ -197,7 +197,7 @@ He helps mainly people from uppmax and not as often people from other places in 
 
 he was researcher, at the chemstry department then some time later, he was offered to work halftime at uppmax. Now fulltime.
 
--How much do you think you'd like the job?
+-How much do you think you'd like his job?
 
 I dont really like this kind of work same with the other people that work with computer but i think helping others makes up for it so i think i'd like it a bit.
 
@@ -215,6 +215,24 @@ he does research on fish right now, with a research group that he leads. He does
 
 He studied 4 years in the netherlands and got an PHD that he studied on for another 4 years in the netherlands. Then he moved to England to study 3 years for him to then come to sweden 2012 and he does research till this day.
 
--How much do you think you'd like the job?
+-How much do you think you'd like his job?
 
 i think it would be fun to do some research.
+
+### Kartik Nair
+
+-What is his job title?
+
+biofimatician
+
+-What does he do?
+
+He does a DNA sequencing and is a system devoloper in which he makes softwares to put DNA samples in. 80% systemdeveloper 20% biofimatics. First they get DNA samples sent from other countries, DNA from bone, bug and more. then with machines help they can see the DNA and what it has. But the DNA is hard to understand so Kartik made a software that helps with that.
+
+-How did he get his job?
+
+He fit into the criterias, knowing about math-statistics, biology and computer science.
+
+-How much do you think you'd like his job?
+
+it would be fun but at the same time I am not good with computers, the DNA part sounds fun though.
