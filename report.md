@@ -91,7 +91,7 @@ main()
 
 -Then just go into your files and search output.svg and click on it.
 
--Now you should have a flamegraph that looks kinda like this:https:![](flamegraph_1.png)
+-Now you should have a flamegraph that looks kinda like this:![](flamegraph_1.png)
 
 most flamegraphs don't look the exact same, they are all diffrent.
 
