@@ -223,11 +223,11 @@ i think it would be fun to do some research.
 
 -What is his job title?
 
-biofimatician
+bioinformatician
 
 -What does he do?
 
-He does a DNA sequencing and is a system devoloper in which he makes softwares to put DNA samples in. 80% systemdeveloper 20% biofimatics. First they get DNA samples sent from other countries, DNA from bone, bug and more. then with machines help they can see the DNA and what it has. But the DNA is hard to understand so Kartik made a software that helps with that.
+He does a DNA sequencing and is a system devoloper in which he makes softwares to put DNA samples in. 80% systemdeveloper 20% bioinformatics. First they get DNA samples sent from other countries, DNA from bone, bug and more. then with machines help they can see the DNA and what it has. But the DNA is hard to understand so Kartik made a software that helps with that.
 
 -How did he get his job?
 
