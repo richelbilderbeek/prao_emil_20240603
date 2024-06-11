@@ -1,6 +1,5 @@
 # Report
 
-![](flamegraph_1.png)
 
 Goal of a PRAO is to find out how it is like to work at a certain place.
 
@@ -92,7 +91,7 @@ main()
 
 -Then just go into your files and search output.svg and click on it.
 
--Now you should have a flamegraph that looks kinda like this:https://www.google.com/imgres?q=flamegraph%20pic&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ff60e00d56db631b9dba6be09615d0486760b7d38fee89021171134e340ba0495%2F687474703a2f2f7777772e6272656e64616e67726567672e636f6d2f466c616d654772617068732f6370752d626173682d666c616d6567726170682e737667&imgrefurl=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&docid=pR2JCE89LVZPfM&tbnid=so_bg2PA3_TUOM&vet=12ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA..i&w=1200&h=626&hcb=2&ved=2ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA
+-Now you should have a flamegraph that looks kinda like this:https:![](flamegraph_1.png)
 
 most flamegraphs don't look the exact same, they are all diffrent.
 
