@@ -76,21 +76,21 @@ main()
 
 ## How to make a flamgraph?
 
-first find a python code. python is a programming language. when you search ask: python code example
+-first find a python code. python is a programming language. when you search ask: python code example
 
-once you found a python code, hold down the press key and drag it over the code so its blue. Copy the code and while the code is blue press ctrl, alt and c at the same time to copy it. Then hold down ctrl alt and T at the same time to start coding.
+-once you found a python code, hold down the press key and drag it over the code so its blue. Copy the code and while the code is blue press ctrl, alt and c at the same time to copy it. Then hold down ctrl alt and T at the same time to start coding.
 
-Once in the termal write: gedit (madeup code name).py always put .py at the end of you madeup code name. 
+-Once in the termal write: gedit (madeup code name).py always put .py at the end of you madeup code name. 
 
-Once your in text editor press ctrl v to put in the code you copied. press save or do ctrl s to save. 
+-Once your in text editor press ctrl v to put in the code you copied. press save or do ctrl s to save. 
 
-Go back to termal and write: python3 -m cProfile -o myscript.prof (the code name you made).py
+-Go back to termal and write: python3 -m cProfile -o myscript.prof (the code name you made).py
 
-Then write: python3 flameprof.py myscript.prof > output.svg 
+-Then write: python3 flameprof.py myscript.prof > output.svg 
 
-Then just go into your files and search output.svg and click on it.
+-Then just go into your files and search output.svg and click on it.
 
-Now you should have a flamegraph that looks kinda like this:https://www.google.com/imgres?q=flamegraph%20pic&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ff60e00d56db631b9dba6be09615d0486760b7d38fee89021171134e340ba0495%2F687474703a2f2f7777772e6272656e64616e67726567672e636f6d2f466c616d654772617068732f6370752d626173682d666c616d6567726170682e737667&imgrefurl=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&docid=pR2JCE89LVZPfM&tbnid=so_bg2PA3_TUOM&vet=12ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA..i&w=1200&h=626&hcb=2&ved=2ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA
+-Now you should have a flamegraph that looks kinda like this:https://www.google.com/imgres?q=flamegraph%20pic&imgurl=https%3A%2F%2Fcamo.githubusercontent.com%2Ff60e00d56db631b9dba6be09615d0486760b7d38fee89021171134e340ba0495%2F687474703a2f2f7777772e6272656e64616e67726567672e636f6d2f466c616d654772617068732f6370752d626173682d666c616d6567726170682e737667&imgrefurl=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&docid=pR2JCE89LVZPfM&tbnid=so_bg2PA3_TUOM&vet=12ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA..i&w=1200&h=626&hcb=2&ved=2ahUKEwi70Zz8idOGAxXdFxAIHTeoAscQM3oECBoQAA
 
 most flamegraphs don't look the exact same, they are all diffrent.
 ## Interviews
