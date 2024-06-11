@@ -44,7 +44,7 @@ A flamegraph shows what runs slow and what runs fast in your code.
 
 ### How does a flamegraph look like?
 
-[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fbrendangregg%2FFlameGraph&psig=AOvVaw1YbP0T6vloNSeq5fnbclh-&ust=1718109386526000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIiSnbGG0YYDFQAAAAAdAAAAABAE]
+
 
 ### Why use a flamegraph?
 
@@ -73,6 +73,10 @@ def main():
 main()
 
 ```
+
+## How to make a flamgraph?
+
+first find a python code. python is a programming language. once you found a python code, copy the code and and press ctrl, alt and T at the same time. once in the termal write: gedit (madeup code name).py always put .py at the end of you madeup code name. once your in text editor press ctrl v to put in the code you copied. press save 
 
 ## Interviews
 
