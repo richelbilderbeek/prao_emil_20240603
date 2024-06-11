@@ -9,6 +9,7 @@
 - [Schedule](schedule.md): see [schedule](schedule.md)
 - [Report](report.md): see [report](report.md)
 - [Reflection](reflection.md): see [reflection](reflection.md)
+- [Reflection from supervisor](reflection_from_supervisor.md): see [Reflection from supervisor](reflection_from_supervisor.md)
 
 ## PRAO goal
 
