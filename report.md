@@ -31,6 +31,7 @@ Python is a programming language.
 ### What is a Python script?
 
 A python script is a file where you can write your code in or copy one in.
+
 ### How to create a Python script?
 
 search for an python code, copy the code ctrl c. write down somewhere for example in your termal: gedit (madeup code name).py
