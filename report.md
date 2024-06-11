@@ -97,6 +97,8 @@ most flamegraphs don't look the exact same, they are all diffrent.
 
 ## How to read/use a flamegraph?
 
+In the flamegraph there are many different lengths on the horizontal bars, some are short and some long. The long ones are slow and the short ones are fast, so basically it shows what runs fast in your code and what runs slow.
+
 ## Interviews
 
 Here at NBIS and UPPMAX, we do many different things,
