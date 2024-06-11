@@ -1,5 +1,7 @@
 # Report
 
+![](Screenshot from 2024-06-11 10-20-08.png)
+
 Goal of a PRAO is to find out how it is like to work at a certain place.
 
 This PRAO has two parts:
